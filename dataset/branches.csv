@@ -1,0 +1,11 @@
+branch_id,branch_name,city,state,branch_type,opened_date
+BR001,Hyderabad Central Branch,Hyderabad,Telangana,Urban,2010-07-01
+BR002,Bengaluru Main Branch,Bengaluru,Karnataka,Urban,2008-07-23
+BR003,Chennai City Branch,Chennai,Tamil Nadu,Urban,2014-03-03
+BR004,Mumbai North Branch,Mumbai,Maharashtra,Urban,2013-06-29
+BR005,Pune South Branch,Pune,Maharashtra,Urban,2013-01-02
+BR006,Delhi Central Branch,Delhi,Delhi,Urban,2011-02-17
+BR007,Guntur Main Branch,Guntur,Andhra Pradesh,Semi-Urban,2010-04-19
+BR008,Vijayawada City Branch,Vijayawada,Andhra Pradesh,Semi-Urban,2020-03-25
+BR009,Kochi North Branch,Kochi,Kerala,Semi-Urban,2009-12-13
+BR010,Visakhapatnam South Branch,Visakhapatnam,Andhra Pradesh,Semi-Urban,2017-06-18
